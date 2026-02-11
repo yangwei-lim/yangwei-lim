@@ -7,4 +7,4 @@
 - 🌱 Currently learning **Git VCS** and **SoC design and verification**
 - 👀 Interested in **ASIC & FPGA design**, **Design Automation** and **AI Machine Learning**
 
-     <img alt="GIF" src="P-IoT devboard.jpg?raw=true" width="400" height="225">
+<img src="P-IoT devboard.jpg?raw=true" width="400" height="225">

@@ -9,4 +9,4 @@
 
 
 ### 🖥️ Putra-IoT: 8051-based microcontroller
-<img src="P-IoT profile.png?raw=true" width="600" height="450">
+<img src="P-IoT profile.png?raw=true" width="700" height="500">
